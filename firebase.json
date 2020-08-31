@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "site": "mojo-cafe",
+    "public": "build",
+    "ignore": [
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
