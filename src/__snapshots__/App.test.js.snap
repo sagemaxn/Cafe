@@ -1,0 +1,137 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component Matches the snapshot 1`] = `
+Array [
+  <div
+    className="sc-AxiKw exQCRH"
+  >
+    <nav
+      className="navbar navbar-expand-lg navbar-light"
+    >
+      <a
+        className="navbar-brand"
+        href="/"
+      >
+        Mojo Cafe
+      </a>
+      <button
+        aria-controls="basic-navbar-nav"
+        aria-label="Toggle navigation"
+        className="navbar-toggler collapsed"
+        onClick={[Function]}
+        type="button"
+      >
+        <span
+          className="navbar-toggler-icon"
+        />
+      </button>
+      <div
+        aria-expanded={null}
+        className="navbar-collapse collapse"
+        id="basic-navbar-nav"
+      >
+        <div
+          className="ml-auto navbar-nav"
+          onKeyDown={[Function]}
+        >
+          <div
+            className="nav-item"
+          >
+            <a
+              aria-current="page"
+              className="nav-link active"
+              data-rb-event-key={null}
+              disabled={false}
+              href="/"
+              onClick={[Function]}
+              style={Object {}}
+            >
+              Home
+            </a>
+          </div>
+          <div
+            className="nav-item"
+          >
+            <a
+              aria-current={null}
+              className="nav-link"
+              data-rb-event-key={null}
+              disabled={false}
+              href="/menu"
+              onClick={[Function]}
+            >
+              Menu
+            </a>
+          </div>
+          <div
+            className="nav-item"
+          >
+            <a
+              aria-current={null}
+              className="nav-link"
+              data-rb-event-key={null}
+              disabled={false}
+              href="/about"
+              onClick={[Function]}
+            >
+              About
+            </a>
+          </div>
+          <div
+            className="nav-item"
+          >
+            <a
+              aria-current={null}
+              className="nav-link"
+              data-rb-event-key={null}
+              disabled={false}
+              href="/contact-us"
+              onClick={[Function]}
+            >
+              Contact
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>,
+  <div
+    style={
+      Object {
+        "height": "80vh",
+      }
+    }
+  >
+    <div>
+      <div
+        className="sc-AxjAm ejxIuV"
+      >
+        <div
+          className="carousal"
+        >
+          <div
+            className="arrows"
+          >
+            <div
+              className="left-arrow"
+              onClick=""
+            />
+            <div
+              className="right-arrow"
+              onClick=""
+            />
+          </div>
+          <div
+            className="image"
+            style={
+              Object {
+                "backgroundImage": "url(\\"https://images.pexels.com/photos/3609894/pexels-photo-3609894.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940\\")",
+              }
+            }
+          />
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
